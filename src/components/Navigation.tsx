@@ -42,7 +42,7 @@ const Navigation: React.FC = () => {
             <span className={`text-xl font-display font-bold transition-colors duration-300 ${
               scrolled ? 'text-gray-900' : 'text-gray-900'
             }`}>
-              Shivakalyan Pola
+              Shivakalyan Gupta Pola
             </span>
           </div>
           
